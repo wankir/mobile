@@ -1,0 +1,12 @@
+....xCøde (version)
+....OS (definition)
+....windows ce (die)
+
+
+ARM _processor architecture®
+Firmware _
+ISR ♂heck this øut https://www.sciencedirect.com/topics/engineering/interrupt-service-routine
+
+
+4 layers (OS)
+ANDRIOD ↔ how it formed the scatfold
