@@ -5,8 +5,14 @@
 
 ARM _processor architecture®
 Firmware _
+BUS _
 ISR ♂heck this øut https://www.sciencedirect.com/topics/engineering/interrupt-service-routine
 
 
 4 layers (OS)
-ANDRIOD ↔ how it formed the scatfold
+ANDRIOD ↔ how it's the scatfold formed 
+Middleware (increment along the years)
+ART [Runtime Andrøid]
+Back to Android INC
+
+▲Go a head▼
